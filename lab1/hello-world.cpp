@@ -11,6 +11,6 @@ Purpose: Learning the basics of Git and Github.
 using namespace std;
 
 int main() {
-  cout << "Hello World!";
+  cout << "Bye World!";
   return 0;
 }
